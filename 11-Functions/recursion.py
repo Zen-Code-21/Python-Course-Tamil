@@ -1,5 +1,5 @@
 
-#recursion is when a function calls itself
+#recursion happens when a function calls itself
 
 #fibonacci sequence:
 # 0 1 1 2 3 5 8 13
@@ -24,7 +24,6 @@ def fib(n): #in this case, n = 1
 
     return fib(n - 2) + fib(n - 1)
 
-# print(fib(6))
 
 # '''
 #                        fib(6)
