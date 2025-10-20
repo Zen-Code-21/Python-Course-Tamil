@@ -7,7 +7,7 @@ valid_name = 10
 _validName = 20
 
 # 2. Cannot start with a number
-# 1value = 100   # ❌ This will cause an error
+# 1value = 100   # This will cause an error
 
 # 3. Can only contain letters, numbers, and underscores
 student_name1 = "X"
@@ -19,8 +19,8 @@ AGE = 23
 print(Age, age, AGE)   # outputs: 21 22 23
 
 # 5. Cannot use Python keywords (like if, for, class, etc.)
-# if = 5    # ❌ Invalid
-# class = "CS"  # ❌ Invalid
+# if = 5    # This is Invalid
+# class = "CS"  # This is Invalid
 
 # ✅ Tip: Use meaningful variable names
 marks = 95
