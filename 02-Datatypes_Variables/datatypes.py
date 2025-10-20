@@ -1,6 +1,5 @@
 #DATA TYPES:
 
-
 # int → whole numbers (no decimal). Example: x = 10
 
 # float → numbers with decimal point. Example: pi = 3.14
