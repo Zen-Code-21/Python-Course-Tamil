@@ -1,9 +1,9 @@
-# marks = 30
-# print(type(marks))
+marks = 30
+print(type(marks))
 
 
-# marks1 = "30"
-# print(type(marks1))
+marks1 = "30"
+print(type(marks1))
 
 #example:
 
