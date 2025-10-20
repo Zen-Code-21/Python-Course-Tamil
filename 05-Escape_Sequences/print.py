@@ -1,3 +1,4 @@
+
 print("hello how are you", end='...')
 print("i am fine")
 
@@ -10,7 +11,7 @@ print("i am fine")
 # print() displays output on screen.
 
 # Basics:
-# print("Hello World")
+print("Hello World")
 
 
 # sep → custom separator between values

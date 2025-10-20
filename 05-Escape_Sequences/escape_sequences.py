@@ -1,9 +1,10 @@
-# print("hello how are you \n i am fine")
 
-# print("hello \" world")
+print("hello how are you \n i am fine")
+
+print("hello \" world")
 
 
-# print('hello \' hiii')
+print('hello \' hiii')
 
 print("\\")
 
