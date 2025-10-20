@@ -10,8 +10,6 @@ a -= 3  #a = a - 3
 print(a)
 
 
-
-
 # Assignment Operators
 # Used to assign values to variables.
 # You can also combine them with arithmetic operations.

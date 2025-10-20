@@ -1,5 +1,6 @@
 
-# 2. Comparison Operators
+
+# Comparison Operators
 # These are used to compare two values and return True or False.
 
 a = 5
