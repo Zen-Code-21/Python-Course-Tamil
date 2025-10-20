@@ -1,7 +1,5 @@
 
 
-
-
 # # name = 'panther'
 # # name = "panther is an animal"    #you can write single line strings in python using single and double quotes
 
