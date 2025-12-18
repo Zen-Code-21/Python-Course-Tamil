@@ -6,6 +6,7 @@ def decorator(func):
         print("I have excecuted this function")
     return wrapper
 
+
 @decorator
 def say_hello():
     print("Hello there !")
