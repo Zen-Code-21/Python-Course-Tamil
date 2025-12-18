@@ -1,4 +1,3 @@
-
 def repeat(n):
     def decorator(func):
         def wrapper(a):
@@ -8,7 +7,7 @@ def repeat(n):
     return decorator
 
 @repeat(7)
-def greet(name):
+def greet(name):    
     print(f"Hello {name}")
     
 greet("Ram")
