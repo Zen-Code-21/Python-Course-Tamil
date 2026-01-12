@@ -1,7 +1,6 @@
 import random
 
 print("Welcome to the lucky number guess....")
-
 print("---------------------------------")
 
 randnum = random.randint(0,100)

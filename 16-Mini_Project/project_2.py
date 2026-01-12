@@ -12,5 +12,4 @@ for i in range(pass_len):
     password += random.choice(values)
 
 print("Your password is : ", password)
-
 # print(string.punctuation)
