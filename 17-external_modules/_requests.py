@@ -1,6 +1,5 @@
 import requests
 
-
 r = requests.get('https://api.github.com/users/zen')
 # print(r.text)
 

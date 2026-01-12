@@ -10,7 +10,6 @@ if(match):
     print("starts at : ", match.start())
     print("ends at : ", match.end())
 
-
 #find all the occurences:
 matches = re.findall("the", text, re.IGNORECASE)
 print(matches)

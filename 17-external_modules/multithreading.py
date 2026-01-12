@@ -2,6 +2,7 @@ import threading
 import time
 
 print_lock = threading.Lock()
+
 #we just simulated a network request over here:
 def worker(num):
     with print_lock:
